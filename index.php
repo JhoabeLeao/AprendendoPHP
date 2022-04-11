@@ -12,9 +12,19 @@
     // Classes
 
     // Variável
-    $nome = 'Guilherme';
+    //$nome = 'Guilherme';
+    $idade = '26'
+    //$Guilherme = 'Bla Bla'
 
     //Concatenar variáveis
-    echo 'O meu nome é ' .$nome;
+    //echo 'O meu nome é ' .$nome;
+
+    // === IDÊNTICO    
+    if ($idade === 26){
+        echo 'Verdadeiro';
+    }else {
+        echo 'Falso';
+    }
+
 
 ?>    
