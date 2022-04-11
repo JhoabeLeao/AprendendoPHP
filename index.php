@@ -42,10 +42,38 @@
         $i++;
     }*/
 
-    //Função
+    /*Função
     printNumero(30);
     function printNumero($n){
         echo $n;
-    }
+    }*/
+
+    /*Classes
+
+    class Pessoa {
+        public $nome;
+        public $idade;
+
+        public function __construct($nome, $idade){
+            $this->nome = $nome;
+            $this->idade = $idade;
+        }
+
+        public function printNomeEIdade(){
+            echo $this -> nome;
+            echo '<br>';
+            echo $this ->idade;
+        }
+
+        $pessoa = new Pessoa ('Guilherme', '26');
+        $pessoa  -> printNomeEIdade();
+            echo '<br>'
+        $pessoa2 = new Pessoa ('Guilherme', '29');
+        $pessoa2  -> printNomeEIdade();
+    }*/
+
+    //Array
+
+    $arr = ['guilherme', 'Joao', 'Felipe']
 
 ?>    
