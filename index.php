@@ -11,6 +11,10 @@
     // Funções
     // Classes
 
+    // Variável
     $nome = 'Guilherme';
+
+    //Concatenar variáveis
+    echo 'O meu nome é ' .$nome;
 
 ?>    
