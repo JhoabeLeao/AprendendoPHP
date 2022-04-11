@@ -11,5 +11,6 @@
     // Funções
     // Classes
 
+    $nome = 'Guilherme';
 
 ?>    
