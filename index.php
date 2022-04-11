@@ -42,4 +42,10 @@
         $i++;
     }*/
 
+    //Função
+    printNumero(30);
+    function printNumero($n){
+        echo $n;
+    }
+
 ?>    
