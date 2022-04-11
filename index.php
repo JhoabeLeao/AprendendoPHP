@@ -72,8 +72,9 @@
         $pessoa2  -> printNomeEIdade();
     }*/
 
-    //Array
+    /*Array
 
-    $arr = ['guilherme', 'Joao', 'Felipe']
+    $arr = ['guilherme', 'Joao', 'Felipe'];
+    echo $arr[1];*/
 
 ?>    
