@@ -19,8 +19,10 @@
     //Concatenar variáveis
     //echo 'O meu nome é ' .$nome;
 
-    // === IDÊNTICO    
-    if ($idade === 26){
+    // === IDÊNTICO  
+    // !== DIFERENTE  
+    // 26 inteiro '26'String 
+    if ($idade !== 26){
         echo 'Verdadeiro';
     }else {
         echo 'Falso';
